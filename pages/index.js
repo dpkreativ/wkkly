@@ -7,7 +7,7 @@ export default function Home() {
         <title>Wkkly</title>
         <meta
           name="description"
-          content="A todo app that lets you organize your goals as weekly tasks to be shared among the days of the week."
+          content="A to-do app that lets you set your goals for the week and split them into daily tasks."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>

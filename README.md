@@ -1,6 +1,6 @@
 # wkkly
 
-A todo app that lets you organize your goals as weekly tasks to be shared among the days of the week.
+A to-do app that lets you set your goals for the week and split them into daily tasks.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
